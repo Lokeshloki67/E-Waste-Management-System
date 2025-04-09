@@ -1,47 +1,82 @@
-<div align="center">
-  
 # ♻️ WASE - E-Waste Management System
 
-<h3><b>A Web App for Responsible E-Waste Disposal & Recycling</b></h3>
-<p><b>⭐ Do Star this repo if you find it helpful.</b></p>
-
-🎥 <b>Project Demo Video:</b>  
-<a href="https://github.com/Lokeshloki67/E-Waste-Management-System/blob/main/Screen%20Recording%202025-04-09%20122916.mp4">
-  🔗 Click here to watch the demo
-</a>
-
-</div>
+**WASE (Waste Awareness & Sustainable Electronics)** is a web-based platform developed to encourage and manage the proper disposal and recycling of electronic waste. It connects users with e-waste collectors and recycling centers to streamline the collection process and reduce environmental harm.
 
 ---
 
-# 🌟 App Features
+## 🌟 Features
 
-- 🗺️ **Locate Nearby E-Waste Collection Centers**
-- 📝 **Submit E-Waste Disposal Requests**
-- 📦 **Track Collection and Recycling Status**
-- 📊 **Admin Dashboard for Managing Users and Requests**
-- 🔐 **Role-Based Access for Users and Admins**
-- 📚 **Informational Content on E-Waste Hazards**
-
----
-
-## 🛠️ Technology Stack Used
-
-<p>
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
-  <img src="https://img.shields.io/badge/JavaScript-F0DB4F?style=for-the-badge&logo=javascript&logoColor=black"/>
-  <img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white"/>
-  <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white"/>
-  <img src="https://img.shields.io/badge/MySQL-00758F?style=for-the-badge&logo=mysql&logoColor=white"/>
-  <img src="https://img.shields.io/badge/XAMPP-FB7A24?style=for-the-badge&logo=xampp&logoColor=white"/>
-</p>
-
-- **Frontend**: HTML5, CSS3, JavaScript, Bootstrap  
-- **Backend**: PHP  
-- **Database**: MySQL  
-- **IDE**: VS Code  
-- **Tools**: XAMPP / WAMP  
+- 🗺️ Locate nearby e-waste collection centers  
+- 📝 Submit e-waste disposal requests  
+- 📦 Track collection and recycling status  
+- 📊 Admin dashboard for managing users and requests  
+- 🔐 Role-based access for users and admins  
+- 📚 Informational content to raise awareness on e-waste hazards  
 
 ---
 
+## 🛠️ Tech Stack
+
+- **Frontend:** HTML5, CSS3, JavaScript, Bootstrap  
+- **Backend:** PHP  
+- **Database:** MySQL  
+- **UI Framework:** Bootstrap  
+- **Tools Used:** VS Code, XAMPP/WAMP  
+
+---
+
+## 🚀 Getting Started
+
+### 📦 Clone the repository
+
+```bash
+git clone https://github.com/your-username/wase-e-waste-management-system.git
+cd wase-e-waste-management-system
+```
+
+### 🛠️ Set up the project
+
+1. Move the project folder to your XAMPP/WAMP `htdocs` directory.  
+2. Import the provided `.sql` file into your MySQL database using **phpMyAdmin**.  
+3. Update the DB credentials in your `db.php` file.  
+
+### ▶️ Run the project
+
+1. Start **Apache** and **MySQL** in XAMPP/WAMP.  
+2. Open your browser and go to:
+
+```
+http://localhost/wase-e-waste-management-system/
+```
+
+---
+
+## 📸 Screenshots
+
+> Add the screenshots in your project directory (e.g. `/screenshots/`) and link them below.
+
+
+---
+
+## 📄 License
+
+This project is licensed under the [MIT License](LICENSE).
+
+---
+
+## 🤝 Contributing
+
+Pull requests are welcome. For major changes, please open an issue first to discuss what you'd like to change.
+
+---
+
+## 👨‍💻 Developed By
+
+**Lokeshwaran Y**  
+*MCA Student | Frontend & Web Developer | Passionate about Sustainability*
+
+---
+
+## 📬 Contact
+
+If you want to contact me, you can reach me on [LinkedIn](https://www.linkedin.com/).
