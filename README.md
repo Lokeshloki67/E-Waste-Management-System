@@ -53,14 +53,8 @@ http://localhost/wase-e-waste-management-system/
 
 ## 📸 Screenshots
 
-> Add the screenshots in your project directory (e.g. `/screenshots/`) and link them below.
 
-
----
-
-## 📄 License
-
-This project is licensed under the [MIT License](LICENSE).
+| ![home](https://github.com/Lokeshloki67/E-Waste-Management-System/blob/main/Screen%20shots/Screenshot%202025-04-09%20125252.png?raw=true)
 
 ---
 
