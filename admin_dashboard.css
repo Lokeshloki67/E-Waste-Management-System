@@ -1,0 +1,60 @@
+/* CSS for the table */
+table {
+  width: 100%;
+  border-collapse: collapse;
+}
+
+th, td {
+  text-align: left;
+  padding: 8px;
+  border-bottom: 1px solid #ddd;
+}
+
+th {
+  background-color: #f2f2f2;
+  font-weight: bold;
+}
+
+/* CSS for the container */
+.container {
+  margin: 20px auto;
+  max-width: 800px;
+  padding: 20px;
+}
+
+/* CSS for the page header */
+header {
+  background-color: #333;
+  color: #fff;
+  padding: 10px;
+}
+
+nav {
+  display: flex;
+  justify-content: space-between;
+}
+
+nav ul {
+  display: flex;
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+}
+
+nav ul li a {
+  color: #fff;
+  text-decoration: none;
+  padding: 10px;
+}
+
+nav ul li a:hover {
+  background-color: #555;
+}
+
+/* CSS for the user details section */
+#user-details {
+  margin-top: 20px;
+  padding: 10px;
+  border: 1px solid #ddd;
+  max-width: 600px;
+}
